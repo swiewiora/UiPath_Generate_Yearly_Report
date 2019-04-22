@@ -1,0 +1,14 @@
+{
+  "name": "2. Performer",
+  "description": "UiPath Training - Generate Yearly Report for ",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6838.25410",
+  "packOptions": {},
+  "runtimeOptions": {}
+}

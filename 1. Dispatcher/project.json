@@ -1,0 +1,14 @@
+{
+  "name": "1. Dispatcher",
+  "description": "Generate Yearly Report for Vendor - Dispatcher",
+  "main": "Main.xaml",
+  "dependencies": {},
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6836.33900",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
